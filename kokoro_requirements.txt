@@ -1,0 +1,12 @@
+# Kokoro TTS Server Requirements
+flask==2.3.3
+flask-cors==4.0.0
+pyttsx3==2.90
+torch==2.0.1
+torchaudio==2.0.2
+numpy==1.24.3
+pathlib2==2.3.7
+
+# Optional: For enhanced audio processing
+scipy==1.11.1
+librosa==0.10.1
