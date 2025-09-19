@@ -1,3 +1,5 @@
+#Please refer to the arcanum-ide repository instead. The git push failed for this one and refuses to commit.
+
 # 🪄 Arcanum IDE - Magical Visual Programming
 
 Transform your code into spells! Arcanum IDE is a revolutionary visual programming interface that represents code as magical circuits and spells, making programming more intuitive and engaging while generating real, working code.
@@ -188,5 +190,6 @@ Perfect for demonstrating the concept:
 Arcanum IDE bridges the gap between the logical world of programming and the creative realm of fantasy, making code creation an act of magical artistry while maintaining professional functionality.
 
 ---
+
 
 **Created for the Kiro Hackathon 2025** - Demonstrating the future of human-AI collaborative programming through magical visual interfaces.
